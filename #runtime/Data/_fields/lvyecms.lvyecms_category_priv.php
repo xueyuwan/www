@@ -1,0 +1,1 @@
+a:5:{i:0;s:5:"catid";i:1;s:6:"roleid";i:2;s:8:"is_admin";i:3;s:6:"action";s:5:"_type";a:4:{s:5:"catid";s:20:"smallint(5) unsigned";s:6:"roleid";s:20:"smallint(5) unsigned";s:8:"is_admin";s:19:"tinyint(1) unsigned";s:6:"action";s:8:"char(30)";}}
